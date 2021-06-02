@@ -15,5 +15,3 @@
     [https://cdnjs.com/libraries/font-awesome]
 
     Les dejo el codigo fuente para que lo revisen tomen de alli lo que necesite y me puedan hacer cualquier sugerencia para mejorar la aplicaciòn.
-
-    
