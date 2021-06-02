@@ -4,7 +4,7 @@
     firebase y Redux.
 
     Es importate mencionar que tambien utilice librerias como moments.js para darle un mejor formato a las fechas
-    (https://momentjs.com/)
+    [Sitio web oficial de la libreria](https://momentjs.com/)
 
     Aplique unos mejores estilos usando la libreria animate.css la  cual recomiendo muchisimo.
 
